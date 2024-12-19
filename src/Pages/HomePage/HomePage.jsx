@@ -1,14 +1,14 @@
 import React from 'react';
-import Banner1 from '../../Component/Homepage/Banner1';
-import Accordation from '../../Component/Homepage/Accordation';
-import Satat from '../../Component/Homepage/Satat';
+import Banner1 from '../../Component/HomePage/Banner1';
+import Accordation from '../../Component/Accordation';
+import Timeline from '../../Component/HomePage/Timeline';
 
 const HomePage = () => {
    return (
       <div>
          <Banner1></Banner1>
          <Accordation></Accordation>
-         <Satat></Satat>
+         <Timeline></Timeline>
       </div>
    );
 };

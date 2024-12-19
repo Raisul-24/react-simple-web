@@ -6,13 +6,13 @@ const Banner1 = () => {
          <div className="carousel w-full">
             <div id="item1" className="carousel-item w-full">
                <img
-                  src="https://img.daisyui.com/images/stock/photo-1625726411847-8cbb60cc71e6.webp"
-                  className="w-full" />
+                  src="/public/banner1-1.jpeg"
+                  className="w-full h-96" />
             </div>
             <div id="item2" className="carousel-item w-full">
                <img
                   src="https://img.daisyui.com/images/stock/photo-1609621838510-5ad474b7d25d.webp"
-                  className="w-full" />
+                  className="w-full h-96" />
             </div>
             <div id="item3" className="carousel-item w-full">
                <img
